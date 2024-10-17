@@ -1,3 +1,12 @@
+#/******************************************************************/
+#/* Aluno1: Henrique Brito Benevides - Número de matrícula: 8164892 */
+#/* Aluno2: Gabriel Marqui Araujo - Número de matrícula: 8163368 */
+#/* Número de matrícula: 8164892 */
+#/* Exercício-Programa 1 — Caixa Eletrônico */
+#/* Programação Avançada - 2024 - Professor: Bruno Perillo */
+#/* Compilador: DevC++ - versão 4.7.0 */
+#/******************************************************************/
+
 def inicializar_caixa():
     """Inicializa o caixa com a quantidade inicial de cédulas."""
     cedulas = {
